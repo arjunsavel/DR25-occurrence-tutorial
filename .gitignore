@@ -7,7 +7,6 @@ completenessContours/out__0004.fits.gz
 completenessContours/out__0005.fits.gz
 completenessContours/out__0006.fits.gz
 completenessContours/out__0007.fits.gz
-stellarCatalogs/*.txt
 stellarCatalogs/*.csv
 dfm_exopop.ipynb
 computeOccurrence_dfm.ipynb
